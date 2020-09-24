@@ -85,11 +85,11 @@ td{
 
 }
 
-tr:nth-child(odd) {
+tbody tr:nth-child(odd) {
   background-color:#D1D1D1;
 }
 
-tr:nth-child(even) {
+tbody tr:nth-child(even) {
   background-color: transparent;
 }
 
